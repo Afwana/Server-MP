@@ -1,0 +1,93 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "Angular",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.hMQs74ebJXOxB0M3TdiCXgHaH3&pid=Api&P=0&h=220",
+      "link": "",
+      "embbedLink": "https://www.youtube.com/embed/a6E5pzst2YE"
+    },
+    {
+      "id": "3",
+      "caption": "Vue.js",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.Ve8s2wOzcP0qpU37-wQKlAHaEK&pid=Api&P=0&h=220",
+      "embbedLink": "https://www.youtube.com/embed/53kB0GKAd2k"
+    },
+    {
+      "id": "5",
+      "caption": "Leo",
+      "url": "https://tse2.mm.bing.net/th?id=OIF.dT9Kh16BxfBVetQgLeL8uw&pid=Api&P=0&h=220",
+      "embbedLink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "6",
+      "caption": "Wayanad",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.FEtRZz5dEM3rr7bYOu45TwHaF2&pid=Api&P=0&h=220",
+      "embbedLink": "https://www.youtube.com/embed/LQWu5W70S8d"
+    },
+    {
+      "id": "7",
+      "caption": "Kashmir",
+      "url": "https://tse1.mm.bing.net/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&pid=Api&P=0&h=220",
+      "embbedLink": "https://www.youtube.com/embed/_nwqmwSJM5_"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Trailors",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Wayanad",
+          "url": "https://tse3.mm.bing.net/th?id=OIP.FEtRZz5dEM3rr7bYOu45TwHaF2&pid=Api&P=0&h=220",
+          "embbedLink": "https://www.youtube.com/embed/LQWu5W70S8d"
+        },
+        {
+          "id": "5",
+          "caption": "Leo",
+          "url": "https://tse2.mm.bing.net/th?id=OIF.dT9Kh16BxfBVetQgLeL8uw&pid=Api&P=0&h=220",
+          "embbedLink": "https://www.youtube.com/embed/Po3jStA673E"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "FrontEnd Technologies",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Vue.js",
+          "url": "https://tse2.mm.bing.net/th?id=OIP.Ve8s2wOzcP0qpU37-wQKlAHaEK&pid=Api&P=0&h=220",
+          "embbedLink": "https://www.youtube.com/embed/53kB0GKAd2k"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Leo",
+      "embbedLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "10/12/2023, 09:50:54 PM",
+      "id": 1
+    },
+    {
+      "caption": "Wayanad",
+      "embbedLink": "https://www.youtube.com/embed/LQWu5W70S8d",
+      "timeStamp": "10/12/2023, 11:18:32 PM",
+      "id": 2
+    },
+    {
+      "caption": "Angular",
+      "embbedLink": "https://www.youtube.com/embed/a6E5pzst2YE",
+      "timeStamp": "10/12/2023, 11:30:46 PM",
+      "id": 3
+    },
+    {
+      "caption": "Vue.js",
+      "embbedLink": "https://www.youtube.com/embed/53kB0GKAd2k",
+      "timeStamp": "10/13/2023, 07:58:48 PM",
+      "id": 5
+    }
+  ]
+}
